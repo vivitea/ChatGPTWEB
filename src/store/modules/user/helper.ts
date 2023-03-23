@@ -15,7 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdvdEdV3I1_BdjSKMazhC-ita6J4IILxHsA&usqp=CAU',
+      avatar: 'https://www.lego.com/cdn/cs/catalog/assets/blt5d00778ab7e1f7aa/1/AID_Ninjago_Jay_Thumbnail_720X960.png?width=320',
       name: 'VIVITEA',
       description: 'Star on <a href="https://github.com/Chanzhaoyu/chatgpt-bot" class="text-blue-500" target="_blank" >Github</a>',
     },
